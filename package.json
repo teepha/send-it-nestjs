@@ -1,0 +1,25 @@
+{
+  "name": "send-it-nestjs",
+  "version": "1.0.0",
+  "description": "SendIT is a courier service that helps users deliver parcels to different destinations. SendIT provides courier quotes based on weight categories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teepha/send-it-nestjs.git"
+  },
+  "author": "Lateefat Amuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teepha/send-it-nestjs/issues"
+  },
+  "homepage": "https://github.com/teepha/send-it-nestjs#readme",
+  "dependencies": {
+    "@nestjs/common": "^9.4.0",
+    "@nestjs/core": "^9.4.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.1"
+  }
+}
